@@ -27,7 +27,7 @@ export default function Home() {
       scrollTrigger: {
         trigger: scrollTrigger1.current,
         scrub: 1,
-        markers: true
+        // markers: true
       },
       translateX: 100
     })
